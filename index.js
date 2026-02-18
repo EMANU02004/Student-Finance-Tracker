@@ -25,7 +25,7 @@ productCategory.addEventListener("change", () => {
     }
 });
 
-// Set Budget Functions
+// Budget Functions
 
 currencySelect.addEventListener("change", () => {
     currency = currencySelect.value;
@@ -101,7 +101,7 @@ const listCreator = (expenseName, expenseValue) => {
 // Add expenses function
 
 checkAmountButton.addEventListener("click", () => {
-    // Get the expense name from category or custom input
+ 
     let expenseName = productCategory.value === "Other" ? productTitle.value : productCategory.value;
     
     // Check empty
