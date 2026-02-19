@@ -33,4 +33,4 @@ This project is a student finance tracker designed to help students manage their
 - JavaScript
 - Font Awesome
 
-![App Screenshot](assets/Screenshot.png)
+![App Screenshot](assets/screenshotpage.png)
