@@ -1,6 +1,6 @@
 # Student-Finance-Tracker
 
-This project is a student finance tracker designed to help students manage their finances effectively. It allows users to track their income, expenses, and savings, providing insights into their financial habits and helping them make informed decisions about their money.
+This project is a student finance tracker designed to help students manage their finances effectively. It allows users to track their income, expenses, and savings, providing insights into their financial habits and helping them make decisions about their money.
 
 ## Features
 
