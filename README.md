@@ -4,7 +4,7 @@ This project is a student finance tracker designed to help students manage their
 
 ## Demo Video
 
-[text](https://youtu.be/Z91ay5Xs1k4)
+(https://youtu.be/Z91ay5Xs1k4)
 
 ## Features
 
