@@ -2,6 +2,10 @@
 
 This project is a student finance tracker designed to help students manage their finances effectively. It allows users to track their income, expenses, and savings, providing insights into their financial habits and helping them make decisions about their money.
 
+## Demo Video
+
+[text](https://youtu.be/Z91ay5Xs1k4)
+
 ## Features
 
 - **Set Budget**: Define your total budget with multiple currency options (USD, EUR, GBP, JPY, INR)
